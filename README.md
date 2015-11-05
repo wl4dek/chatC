@@ -8,4 +8,5 @@ Os clientes vão poder mandar mensagem para todos os com a mensagem BROADCAST e 
 OBS.:
 -----------------------------
 1 - Caso queira testar no WINDOWS develar pegar as dll de 'lpthread' para funcional.
+
 2 - compilar.sh serve para compilar os programas no LINUX.
